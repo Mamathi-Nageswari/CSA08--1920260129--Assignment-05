@@ -1,0 +1,3 @@
+pandas>=2.0
+matplotlib>=3.7
+# csv, sqlite3, statistics, re, io, time, timeit, cProfile, logging, tracemalloc are in the standard library
